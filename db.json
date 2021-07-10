@@ -1,18 +1,11 @@
-[
-  {
-    "index": 0,
-    "ean": 30,
-    "nvalue": 71,
-    "bvalue": 65,
-    "prod": "P3",
-    "category": "K1"
-  },
-  {
-    "index": 1,
-    "ean": 17,
-    "nvalue": 68,
-    "bvalue": 17,
-    "prod": "P13",
-    "category": "K4"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  ]
+}
