@@ -1,173 +1,578 @@
 [
   {
-    "_id": "60e972137a471084ca5eff7f",
     "index": 0,
-    "ean": 3,
-    "nvalue": 357.72,
-    "bvalue": 246.58,
-    "prod": "Produkt10",
-    "category": "Kategoria2"
+    "ean": 30,
+    "nvalue": 71,
+    "bvalue": 65,
+    "prod": "P3",
+    "category": "K1"
   },
   {
-    "_id": "60e97213dc4ae7d8eaa20e48",
     "index": 1,
-    "ean": 3,
-    "nvalue": 389.68,
-    "bvalue": 254.66,
-    "prod": "Produkt9",
-    "category": "Kategoria3"
+    "ean": 17,
+    "nvalue": 68,
+    "bvalue": 17,
+    "prod": "P13",
+    "category": "K4"
   },
   {
-    "_id": "60e9721399a110e45fc21d2d",
     "index": 2,
-    "ean": 22,
-    "nvalue": 377.18,
-    "bvalue": 118.4,
-    "prod": "Produkt6",
-    "category": "Kategoria1"
+    "ean": 16,
+    "nvalue": 65,
+    "bvalue": 46,
+    "prod": "P6",
+    "category": "K1"
   },
   {
-    "_id": "60e97213ddf0ca9a77627589",
     "index": 3,
-    "ean": 23,
-    "nvalue": 478.44,
-    "bvalue": 286.07,
-    "prod": "Produkt6",
-    "category": "Kategoria5"
+    "ean": 12,
+    "nvalue": 85,
+    "bvalue": 37,
+    "prod": "P18",
+    "category": "K1"
   },
   {
-    "_id": "60e97213f56aa28a40454113",
     "index": 4,
-    "ean": 23,
-    "nvalue": 412.82,
-    "bvalue": 150.4,
-    "prod": "Produkt9",
-    "category": "Kategoria2"
+    "ean": 10,
+    "nvalue": 59,
+    "bvalue": 58,
+    "prod": "P7",
+    "category": "K4"
   },
   {
-    "_id": "60e972138b7a326aace97fa4",
     "index": 5,
-    "ean": 9,
-    "nvalue": 201.94,
-    "bvalue": 470.16,
-    "prod": "Produkt10",
-    "category": "Kategoria5"
+    "ean": 19,
+    "nvalue": 29,
+    "bvalue": 88,
+    "prod": "P12",
+    "category": "K1"
   },
   {
-    "_id": "60e97213016c4b3bf4a50cb7",
     "index": 6,
     "ean": 20,
-    "nvalue": 425.63,
-    "bvalue": 168.82,
-    "prod": "Produkt5",
-    "category": "Kategoria5"
+    "nvalue": 9,
+    "bvalue": 25,
+    "prod": "P12",
+    "category": "K3"
   },
   {
-    "_id": "60e9721322a91f6da5c0eddc",
     "index": 7,
-    "ean": 12,
-    "nvalue": 231.43,
-    "bvalue": 288.89,
-    "prod": "Produkt17",
-    "category": "Kategoria2"
+    "ean": 23,
+    "nvalue": 81,
+    "bvalue": 66,
+    "prod": "P7",
+    "category": "K4"
   },
   {
-    "_id": "60e97213d1349d3ac1e8a1e3",
     "index": 8,
-    "ean": 9,
-    "nvalue": 298.33,
-    "bvalue": 111.11,
-    "prod": "Produkt17",
-    "category": "Kategoria3"
+    "ean": 20,
+    "nvalue": 63,
+    "bvalue": 28,
+    "prod": "P16",
+    "category": "K4"
   },
   {
-    "_id": "60e9721319996f29bcf96dd9",
     "index": 9,
-    "ean": 12,
-    "nvalue": 316.97,
-    "bvalue": 173,
-    "prod": "Produkt18",
-    "category": "Kategoria2"
+    "ean": 14,
+    "nvalue": 64,
+    "bvalue": 45,
+    "prod": "P18",
+    "category": "K2"
   },
   {
-    "_id": "60e972136c29b35b651f6557",
     "index": 10,
-    "ean": 30,
-    "nvalue": 194.67,
-    "bvalue": 243.67,
-    "prod": "Produkt15",
-    "category": "Kategoria3"
-  },
-  {
-    "_id": "60e972133937a1a8a3e156c8",
-    "index": 11,
-    "ean": 7,
-    "nvalue": 339.44,
-    "bvalue": 259.81,
-    "prod": "Produkt6",
-    "category": "Kategoria4"
-  },
-  {
-    "_id": "60e97213a6f1568c4a52d856",
-    "index": 12,
-    "ean": 4,
-    "nvalue": 348.65,
-    "bvalue": 410.98,
-    "prod": "Produkt1",
-    "category": "Kategoria2"
-  },
-  {
-    "_id": "60e97213483792bd2cf837f4",
-    "index": 13,
-    "ean": 19,
-    "nvalue": 219.06,
-    "bvalue": 107.85,
-    "prod": "Produkt17",
-    "category": "Kategoria2"
-  },
-  {
-    "_id": "60e97213529929930c6e27ad",
-    "index": 14,
-    "ean": 18,
-    "nvalue": 290.24,
-    "bvalue": 287.95,
-    "prod": "Produkt3",
-    "category": "Kategoria5"
-  },
-  {
-    "_id": "60e97213e52d11b928752cbd",
-    "index": 15,
     "ean": 2,
-    "nvalue": 270.37,
-    "bvalue": 254.28,
-    "prod": "Produkt13",
-    "category": "Kategoria3"
+    "nvalue": 16,
+    "bvalue": 39,
+    "prod": "P7",
+    "category": "K4"
   },
   {
-    "_id": "60e9721396c0810fc6ab7a2e",
+    "index": 11,
+    "ean": 26,
+    "nvalue": 93,
+    "bvalue": 84,
+    "prod": "P6",
+    "category": "K5"
+  },
+  {
+    "index": 12,
+    "ean": 8,
+    "nvalue": 98,
+    "bvalue": 28,
+    "prod": "P15",
+    "category": "K2"
+  },
+  {
+    "index": 13,
+    "ean": 30,
+    "nvalue": 99,
+    "bvalue": 10,
+    "prod": "P17",
+    "category": "K3"
+  },
+  {
+    "index": 14,
+    "ean": 17,
+    "nvalue": 55,
+    "bvalue": 84,
+    "prod": "P9",
+    "category": "K1"
+  },
+  {
+    "index": 15,
+    "ean": 19,
+    "nvalue": 96,
+    "bvalue": 41,
+    "prod": "P16",
+    "category": "K3"
+  },
+  {
     "index": 16,
-    "ean": 1,
-    "nvalue": 305.31,
-    "bvalue": 243.67,
-    "prod": "Produkt17",
-    "category": "Kategoria5"
+    "ean": 11,
+    "nvalue": 83,
+    "bvalue": 84,
+    "prod": "P7",
+    "category": "K3"
   },
   {
-    "_id": "60e9721323e53a9ce4673ea3",
     "index": 17,
-    "ean": 1,
-    "nvalue": 374.46,
-    "bvalue": 311.25,
-    "prod": "Produkt1",
-    "category": "Kategoria3"
+    "ean": 28,
+    "nvalue": 45,
+    "bvalue": 12,
+    "prod": "P5",
+    "category": "K4"
   },
   {
-    "_id": "60e97213748c1a3e26107e37",
     "index": 18,
+    "ean": 6,
+    "nvalue": 94,
+    "bvalue": 80,
+    "prod": "P9",
+    "category": "K1"
+  },
+  {
+    "index": 19,
+    "ean": 5,
+    "nvalue": 71,
+    "bvalue": 5,
+    "prod": "P1",
+    "category": "K1"
+  },
+  {
+    "index": 20,
+    "ean": 11,
+    "nvalue": 43,
+    "bvalue": 16,
+    "prod": "P3",
+    "category": "K3"
+  },
+  {
+    "index": 21,
+    "ean": 16,
+    "nvalue": 18,
+    "bvalue": 4,
+    "prod": "P1",
+    "category": "K1"
+  },
+  {
+    "index": 22,
+    "ean": 17,
+    "nvalue": 27,
+    "bvalue": 85,
+    "prod": "P10",
+    "category": "K3"
+  },
+  {
+    "index": 23,
+    "ean": 16,
+    "nvalue": 70,
+    "bvalue": 65,
+    "prod": "P16",
+    "category": "K4"
+  },
+  {
+    "index": 24,
+    "ean": 1,
+    "nvalue": 86,
+    "bvalue": 40,
+    "prod": "P16",
+    "category": "K4"
+  },
+  {
+    "index": 25,
+    "ean": 27,
+    "nvalue": 97,
+    "bvalue": 94,
+    "prod": "P14",
+    "category": "K4"
+  },
+  {
+    "index": 26,
+    "ean": 17,
+    "nvalue": 11,
+    "bvalue": 59,
+    "prod": "P1",
+    "category": "K1"
+  },
+  {
+    "index": 27,
+    "ean": 6,
+    "nvalue": 51,
+    "bvalue": 11,
+    "prod": "P6",
+    "category": "K4"
+  },
+  {
+    "index": 28,
+    "ean": 3,
+    "nvalue": 10,
+    "bvalue": 68,
+    "prod": "P14",
+    "category": "K1"
+  },
+  {
+    "index": 29,
+    "ean": 28,
+    "nvalue": 7,
+    "bvalue": 42,
+    "prod": "P18",
+    "category": "K3"
+  },
+  {
+    "index": 30,
+    "ean": 10,
+    "nvalue": 50,
+    "bvalue": 33,
+    "prod": "P1",
+    "category": "K4"
+  },
+  {
+    "index": 31,
+    "ean": 2,
+    "nvalue": 25,
+    "bvalue": 14,
+    "prod": "P20",
+    "category": "K3"
+  },
+  {
+    "index": 32,
+    "ean": 21,
+    "nvalue": 10,
+    "bvalue": 99,
+    "prod": "P4",
+    "category": "K4"
+  },
+  {
+    "index": 33,
+    "ean": 21,
+    "nvalue": 21,
+    "bvalue": 29,
+    "prod": "P2",
+    "category": "K4"
+  },
+  {
+    "index": 34,
+    "ean": 4,
+    "nvalue": 92,
+    "bvalue": 59,
+    "prod": "P19",
+    "category": "K5"
+  },
+  {
+    "index": 35,
+    "ean": 29,
+    "nvalue": 88,
+    "bvalue": 29,
+    "prod": "P10",
+    "category": "K4"
+  },
+  {
+    "index": 36,
+    "ean": 19,
+    "nvalue": 23,
+    "bvalue": 68,
+    "prod": "P8",
+    "category": "K2"
+  },
+  {
+    "index": 37,
+    "ean": 13,
+    "nvalue": 78,
+    "bvalue": 35,
+    "prod": "P4",
+    "category": "K5"
+  },
+  {
+    "index": 38,
+    "ean": 28,
+    "nvalue": 40,
+    "bvalue": 38,
+    "prod": "P11",
+    "category": "K1"
+  },
+  {
+    "index": 39,
+    "ean": 23,
+    "nvalue": 74,
+    "bvalue": 42,
+    "prod": "P10",
+    "category": "K3"
+  },
+  {
+    "index": 40,
+    "ean": 4,
+    "nvalue": 1,
+    "bvalue": 21,
+    "prod": "P5",
+    "category": "K1"
+  },
+  {
+    "index": 41,
+    "ean": 14,
+    "nvalue": 85,
+    "bvalue": 63,
+    "prod": "P11",
+    "category": "K4"
+  },
+  {
+    "index": 42,
+    "ean": 30,
+    "nvalue": 69,
+    "bvalue": 86,
+    "prod": "P10",
+    "category": "K3"
+  },
+  {
+    "index": 43,
+    "ean": 28,
+    "nvalue": 92,
+    "bvalue": 25,
+    "prod": "P16",
+    "category": "K5"
+  },
+  {
+    "index": 44,
+    "ean": 30,
+    "nvalue": 22,
+    "bvalue": 31,
+    "prod": "P8",
+    "category": "K4"
+  },
+  {
+    "index": 45,
     "ean": 24,
-    "nvalue": 371.48,
-    "bvalue": 119.43,
-    "prod": "Produkt13",
-    "category": "Kategoria3"
+    "nvalue": 32,
+    "bvalue": 51,
+    "prod": "P14",
+    "category": "K5"
+  },
+  {
+    "index": 46,
+    "ean": 15,
+    "nvalue": 75,
+    "bvalue": 97,
+    "prod": "P10",
+    "category": "K5"
+  },
+  {
+    "index": 47,
+    "ean": 6,
+    "nvalue": 29,
+    "bvalue": 34,
+    "prod": "P11",
+    "category": "K5"
+  },
+  {
+    "index": 48,
+    "ean": 16,
+    "nvalue": 97,
+    "bvalue": 3,
+    "prod": "P16",
+    "category": "K3"
+  },
+  {
+    "index": 49,
+    "ean": 11,
+    "nvalue": 76,
+    "bvalue": 17,
+    "prod": "P11",
+    "category": "K4"
+  },
+  {
+    "index": 50,
+    "ean": 22,
+    "nvalue": 52,
+    "bvalue": 47,
+    "prod": "P9",
+    "category": "K1"
+  },
+  {
+    "index": 51,
+    "ean": 14,
+    "nvalue": 5,
+    "bvalue": 3,
+    "prod": "P14",
+    "category": "K5"
+  },
+  {
+    "index": 52,
+    "ean": 6,
+    "nvalue": 21,
+    "bvalue": 59,
+    "prod": "P19",
+    "category": "K2"
+  },
+  {
+    "index": 53,
+    "ean": 5,
+    "nvalue": 56,
+    "bvalue": 62,
+    "prod": "P19",
+    "category": "K1"
+  },
+  {
+    "index": 54,
+    "ean": 10,
+    "nvalue": 41,
+    "bvalue": 50,
+    "prod": "P10",
+    "category": "K1"
+  },
+  {
+    "index": 55,
+    "ean": 10,
+    "nvalue": 12,
+    "bvalue": 15,
+    "prod": "P14",
+    "category": "K1"
+  },
+  {
+    "index": 56,
+    "ean": 14,
+    "nvalue": 61,
+    "bvalue": 59,
+    "prod": "P11",
+    "category": "K5"
+  },
+  {
+    "index": 57,
+    "ean": 30,
+    "nvalue": 83,
+    "bvalue": 99,
+    "prod": "P3",
+    "category": "K3"
+  },
+  {
+    "index": 58,
+    "ean": 24,
+    "nvalue": 51,
+    "bvalue": 55,
+    "prod": "P2",
+    "category": "K3"
+  },
+  {
+    "index": 59,
+    "ean": 21,
+    "nvalue": 62,
+    "bvalue": 12,
+    "prod": "P2",
+    "category": "K1"
+  },
+  {
+    "index": 60,
+    "ean": 14,
+    "nvalue": 98,
+    "bvalue": 21,
+    "prod": "P10",
+    "category": "K2"
+  },
+  {
+    "index": 61,
+    "ean": 6,
+    "nvalue": 72,
+    "bvalue": 55,
+    "prod": "P17",
+    "category": "K1"
+  },
+  {
+    "index": 62,
+    "ean": 30,
+    "nvalue": 20,
+    "bvalue": 43,
+    "prod": "P18",
+    "category": "K4"
+  },
+  {
+    "index": 63,
+    "ean": 5,
+    "nvalue": 9,
+    "bvalue": 90,
+    "prod": "P3",
+    "category": "K1"
+  },
+  {
+    "index": 64,
+    "ean": 22,
+    "nvalue": 83,
+    "bvalue": 37,
+    "prod": "P20",
+    "category": "K3"
+  },
+  {
+    "index": 65,
+    "ean": 26,
+    "nvalue": 97,
+    "bvalue": 58,
+    "prod": "P7",
+    "category": "K5"
+  },
+  {
+    "index": 66,
+    "ean": 22,
+    "nvalue": 34,
+    "bvalue": 19,
+    "prod": "P3",
+    "category": "K1"
+  },
+  {
+    "index": 67,
+    "ean": 20,
+    "nvalue": 65,
+    "bvalue": 61,
+    "prod": "P11",
+    "category": "K3"
+  },
+  {
+    "index": 68,
+    "ean": 17,
+    "nvalue": 70,
+    "bvalue": 25,
+    "prod": "P9",
+    "category": "K1"
+  },
+  {
+    "index": 69,
+    "ean": 7,
+    "nvalue": 97,
+    "bvalue": 29,
+    "prod": "P18",
+    "category": "K4"
+  },
+  {
+    "index": 70,
+    "ean": 27,
+    "nvalue": 1,
+    "bvalue": 69,
+    "prod": "P10",
+    "category": "K2"
+  },
+  {
+    "index": 71,
+    "ean": 20,
+    "nvalue": 18,
+    "bvalue": 60,
+    "prod": "P16",
+    "category": "K5"
   }
 ]
