@@ -1,0 +1,758 @@
+[
+  {
+    "_id": "60e972137a471084ca5eff7f",
+    "index": 0,
+    "ean": 3,
+    "nvalue": 357.72,
+    "bvalue": 246.58,
+    "prod": "Produkt10",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e97213dc4ae7d8eaa20e48",
+    "index": 1,
+    "ean": 3,
+    "nvalue": 389.68,
+    "bvalue": 254.66,
+    "prod": "Produkt9",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721399a110e45fc21d2d",
+    "index": 2,
+    "ean": 22,
+    "nvalue": 377.18,
+    "bvalue": 118.4,
+    "prod": "Produkt6",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213ddf0ca9a77627589",
+    "index": 3,
+    "ean": 23,
+    "nvalue": 478.44,
+    "bvalue": 286.07,
+    "prod": "Produkt6",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213f56aa28a40454113",
+    "index": 4,
+    "ean": 23,
+    "nvalue": 412.82,
+    "bvalue": 150.4,
+    "prod": "Produkt9",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e972138b7a326aace97fa4",
+    "index": 5,
+    "ean": 9,
+    "nvalue": 201.94,
+    "bvalue": 470.16,
+    "prod": "Produkt10",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213016c4b3bf4a50cb7",
+    "index": 6,
+    "ean": 20,
+    "nvalue": 425.63,
+    "bvalue": 168.82,
+    "prod": "Produkt5",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e9721322a91f6da5c0eddc",
+    "index": 7,
+    "ean": 12,
+    "nvalue": 231.43,
+    "bvalue": 288.89,
+    "prod": "Produkt17",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e97213d1349d3ac1e8a1e3",
+    "index": 8,
+    "ean": 9,
+    "nvalue": 298.33,
+    "bvalue": 111.11,
+    "prod": "Produkt17",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721319996f29bcf96dd9",
+    "index": 9,
+    "ean": 12,
+    "nvalue": 316.97,
+    "bvalue": 173,
+    "prod": "Produkt18",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e972136c29b35b651f6557",
+    "index": 10,
+    "ean": 30,
+    "nvalue": 194.67,
+    "bvalue": 243.67,
+    "prod": "Produkt15",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e972133937a1a8a3e156c8",
+    "index": 11,
+    "ean": 7,
+    "nvalue": 339.44,
+    "bvalue": 259.81,
+    "prod": "Produkt6",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213a6f1568c4a52d856",
+    "index": 12,
+    "ean": 4,
+    "nvalue": 348.65,
+    "bvalue": 410.98,
+    "prod": "Produkt1",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e97213483792bd2cf837f4",
+    "index": 13,
+    "ean": 19,
+    "nvalue": 219.06,
+    "bvalue": 107.85,
+    "prod": "Produkt17",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e97213529929930c6e27ad",
+    "index": 14,
+    "ean": 18,
+    "nvalue": 290.24,
+    "bvalue": 287.95,
+    "prod": "Produkt3",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213e52d11b928752cbd",
+    "index": 15,
+    "ean": 2,
+    "nvalue": 270.37,
+    "bvalue": 254.28,
+    "prod": "Produkt13",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721396c0810fc6ab7a2e",
+    "index": 16,
+    "ean": 1,
+    "nvalue": 305.31,
+    "bvalue": 243.67,
+    "prod": "Produkt17",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e9721323e53a9ce4673ea3",
+    "index": 17,
+    "ean": 1,
+    "nvalue": 374.46,
+    "bvalue": 311.25,
+    "prod": "Produkt1",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e97213748c1a3e26107e37",
+    "index": 18,
+    "ean": 24,
+    "nvalue": 371.48,
+    "bvalue": 119.43,
+    "prod": "Produkt13",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721396808a0c60637847",
+    "index": 19,
+    "ean": 15,
+    "nvalue": 368.02,
+    "bvalue": 281.36,
+    "prod": "Produkt7",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721341457690e0c11525",
+    "index": 20,
+    "ean": 25,
+    "nvalue": 242.33,
+    "bvalue": 431.47,
+    "prod": "Produkt16",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721371697d33cb9df905",
+    "index": 21,
+    "ean": 17,
+    "nvalue": 102.68,
+    "bvalue": 296.49,
+    "prod": "Produkt5",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213887e6e8fe2377fb6",
+    "index": 22,
+    "ean": 16,
+    "nvalue": 108.2,
+    "bvalue": 481.65,
+    "prod": "Produkt13",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213db55564f6953bc30",
+    "index": 23,
+    "ean": 10,
+    "nvalue": 425.55,
+    "bvalue": 267.26,
+    "prod": "Produkt19",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e97213aec69b6def8f2942",
+    "index": 24,
+    "ean": 27,
+    "nvalue": 392.82,
+    "bvalue": 347.3,
+    "prod": "Produkt17",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e972130b702d99ea513217",
+    "index": 25,
+    "ean": 15,
+    "nvalue": 229.5,
+    "bvalue": 198.12,
+    "prod": "Produkt20",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213c25cb53c46c54a6e",
+    "index": 26,
+    "ean": 5,
+    "nvalue": 294.04,
+    "bvalue": 137.06,
+    "prod": "Produkt16",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213fd2231c031a52195",
+    "index": 27,
+    "ean": 6,
+    "nvalue": 246.15,
+    "bvalue": 383.79,
+    "prod": "Produkt11",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213225a1a535c3de3ba",
+    "index": 28,
+    "ean": 16,
+    "nvalue": 429.93,
+    "bvalue": 313.89,
+    "prod": "Produkt17",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213cd087373f685a436",
+    "index": 29,
+    "ean": 12,
+    "nvalue": 287.65,
+    "bvalue": 154.87,
+    "prod": "Produkt1",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e972134b0fef330a00fa74",
+    "index": 30,
+    "ean": 18,
+    "nvalue": 267.41,
+    "bvalue": 460.08,
+    "prod": "Produkt9",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e9721304a228b5a8f56391",
+    "index": 31,
+    "ean": 29,
+    "nvalue": 336.49,
+    "bvalue": 177.3,
+    "prod": "Produkt16",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213f7c2463d2c3cb1c6",
+    "index": 32,
+    "ean": 28,
+    "nvalue": 213.14,
+    "bvalue": 496.34,
+    "prod": "Produkt8",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213305f21e12eac4e1b",
+    "index": 33,
+    "ean": 25,
+    "nvalue": 134.04,
+    "bvalue": 442.98,
+    "prod": "Produkt8",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213b4231f017511ac5e",
+    "index": 34,
+    "ean": 7,
+    "nvalue": 130.02,
+    "bvalue": 194.11,
+    "prod": "Produkt11",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213851c6d5e544a9d08",
+    "index": 35,
+    "ean": 22,
+    "nvalue": 482.77,
+    "bvalue": 222.24,
+    "prod": "Produkt13",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e9721326089155e1d4d5c0",
+    "index": 36,
+    "ean": 17,
+    "nvalue": 359.57,
+    "bvalue": 322.69,
+    "prod": "Produkt1",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e9721375d4bac6a336807b",
+    "index": 37,
+    "ean": 29,
+    "nvalue": 122.42,
+    "bvalue": 488.89,
+    "prod": "Produkt14",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e972137f54d87ff54167de",
+    "index": 38,
+    "ean": 13,
+    "nvalue": 277.09,
+    "bvalue": 344.45,
+    "prod": "Produkt1",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213190f8845a8f1a80e",
+    "index": 39,
+    "ean": 26,
+    "nvalue": 243.66,
+    "bvalue": 372.3,
+    "prod": "Produkt3",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e9721312853279cf66941c",
+    "index": 40,
+    "ean": 13,
+    "nvalue": 339.13,
+    "bvalue": 330.87,
+    "prod": "Produkt19",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e972130c78f8d16ee866e6",
+    "index": 41,
+    "ean": 4,
+    "nvalue": 196.37,
+    "bvalue": 207.61,
+    "prod": "Produkt8",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e972131b1a4286e86fa54b",
+    "index": 42,
+    "ean": 25,
+    "nvalue": 309.92,
+    "bvalue": 460.54,
+    "prod": "Produkt11",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e972132ad052993360a178",
+    "index": 43,
+    "ean": 15,
+    "nvalue": 442.11,
+    "bvalue": 369.16,
+    "prod": "Produkt2",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e97213278a585ea47286f9",
+    "index": 44,
+    "ean": 6,
+    "nvalue": 259.2,
+    "bvalue": 292.06,
+    "prod": "Produkt19",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213fdb455c313d6f8ac",
+    "index": 45,
+    "ean": 23,
+    "nvalue": 196.09,
+    "bvalue": 388.92,
+    "prod": "Produkt14",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e97213d0a409b9fd86828c",
+    "index": 46,
+    "ean": 29,
+    "nvalue": 313.62,
+    "bvalue": 254.88,
+    "prod": "Produkt18",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213ce22b15e7e37946c",
+    "index": 47,
+    "ean": 30,
+    "nvalue": 116.42,
+    "bvalue": 158.43,
+    "prod": "Produkt2",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e9721326824a7520ac9bb5",
+    "index": 48,
+    "ean": 11,
+    "nvalue": 383.77,
+    "bvalue": 284.21,
+    "prod": "Produkt6",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e97213308cf354ab2205e1",
+    "index": 49,
+    "ean": 26,
+    "nvalue": 416.95,
+    "bvalue": 364.49,
+    "prod": "Produkt11",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213abb69775bdeddd20",
+    "index": 50,
+    "ean": 14,
+    "nvalue": 205.59,
+    "bvalue": 411.91,
+    "prod": "Produkt6",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213226d55dbc02fc1f5",
+    "index": 51,
+    "ean": 18,
+    "nvalue": 301.96,
+    "bvalue": 319.26,
+    "prod": "Produkt20",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e9721305f462b617193190",
+    "index": 52,
+    "ean": 24,
+    "nvalue": 299.98,
+    "bvalue": 384.27,
+    "prod": "Produkt20",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213d581858ed164f484",
+    "index": 53,
+    "ean": 21,
+    "nvalue": 300.79,
+    "bvalue": 183.87,
+    "prod": "Produkt17",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e972136c4129fee78ae49f",
+    "index": 54,
+    "ean": 18,
+    "nvalue": 235.4,
+    "bvalue": 341.46,
+    "prod": "Produkt9",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e972137e84edfe3997c276",
+    "index": 55,
+    "ean": 2,
+    "nvalue": 222.02,
+    "bvalue": 210.56,
+    "prod": "Produkt11",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e972131ade6e11bd6bc7e2",
+    "index": 56,
+    "ean": 2,
+    "nvalue": 397.26,
+    "bvalue": 205.6,
+    "prod": "Produkt10",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e972132f52f5c98a59e3f4",
+    "index": 57,
+    "ean": 27,
+    "nvalue": 345.76,
+    "bvalue": 142.62,
+    "prod": "Produkt6",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e97213c7eaf9a2e87e2473",
+    "index": 58,
+    "ean": 17,
+    "nvalue": 260.34,
+    "bvalue": 473.9,
+    "prod": "Produkt8",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e9721325fbe494eeaf9716",
+    "index": 59,
+    "ean": 8,
+    "nvalue": 103.63,
+    "bvalue": 199.14,
+    "prod": "Produkt18",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213a3525145721593ac",
+    "index": 60,
+    "ean": 28,
+    "nvalue": 438.11,
+    "bvalue": 378.42,
+    "prod": "Produkt3",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e9721308f27049cfd7eab5",
+    "index": 61,
+    "ean": 1,
+    "nvalue": 293.56,
+    "bvalue": 227.27,
+    "prod": "Produkt18",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e972134d098c0208cf7f26",
+    "index": 62,
+    "ean": 16,
+    "nvalue": 444.15,
+    "bvalue": 404.96,
+    "prod": "Produkt1",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e97213f05879fc429e6a3b",
+    "index": 63,
+    "ean": 10,
+    "nvalue": 489.22,
+    "bvalue": 375.11,
+    "prod": "Produkt14",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e972139b3937d5595d0ddb",
+    "index": 64,
+    "ean": 6,
+    "nvalue": 237.21,
+    "bvalue": 426.24,
+    "prod": "Produkt15",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213d0b5ca6f59883186",
+    "index": 65,
+    "ean": 21,
+    "nvalue": 457.24,
+    "bvalue": 179.78,
+    "prod": "Produkt13",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e9721379c2510388ae1679",
+    "index": 66,
+    "ean": 25,
+    "nvalue": 196.81,
+    "bvalue": 247.7,
+    "prod": "Produkt17",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e9721364dcf9eacf1adf35",
+    "index": 67,
+    "ean": 13,
+    "nvalue": 466.41,
+    "bvalue": 284.7,
+    "prod": "Produkt14",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e9721370a6ddbd2285392b",
+    "index": 68,
+    "ean": 21,
+    "nvalue": 290.93,
+    "bvalue": 269.42,
+    "prod": "Produkt17",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e972132b03a21d3595f8f7",
+    "index": 69,
+    "ean": 24,
+    "nvalue": 457.22,
+    "bvalue": 239.44,
+    "prod": "Produkt5",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e972136673067f94a1892c",
+    "index": 70,
+    "ean": 4,
+    "nvalue": 198.87,
+    "bvalue": 497.73,
+    "prod": "Produkt18",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e97213509d4f09b9d2b6ea",
+    "index": 71,
+    "ean": 26,
+    "nvalue": 187.81,
+    "bvalue": 439.36,
+    "prod": "Produkt17",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e9721347631c156bb1cfff",
+    "index": 72,
+    "ean": 13,
+    "nvalue": 166.44,
+    "bvalue": 317.12,
+    "prod": "Produkt1",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721369beff5b4d5eafba",
+    "index": 73,
+    "ean": 8,
+    "nvalue": 448.22,
+    "bvalue": 191.71,
+    "prod": "Produkt9",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e97213b7e4cbb41062dad0",
+    "index": 74,
+    "ean": 4,
+    "nvalue": 101.87,
+    "bvalue": 320.71,
+    "prod": "Produkt3",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213c6cf672972511ab2",
+    "index": 75,
+    "ean": 21,
+    "nvalue": 133.83,
+    "bvalue": 450.52,
+    "prod": "Produkt12",
+    "category": "Kategoria5"
+  },
+  {
+    "_id": "60e972132cb89ef2e02e3583",
+    "index": 76,
+    "ean": 7,
+    "nvalue": 193.13,
+    "bvalue": 356.49,
+    "prod": "Produkt3",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e9721306e6e3f954eea01c",
+    "index": 77,
+    "ean": 6,
+    "nvalue": 189.84,
+    "bvalue": 416.86,
+    "prod": "Produkt13",
+    "category": "Kategoria3"
+  },
+  {
+    "_id": "60e9721398ea27da3e4a3368",
+    "index": 78,
+    "ean": 15,
+    "nvalue": 419.7,
+    "bvalue": 490.62,
+    "prod": "Produkt7",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e97213175c7dd30308cff9",
+    "index": 79,
+    "ean": 7,
+    "nvalue": 102.32,
+    "bvalue": 476.27,
+    "prod": "Produkt17",
+    "category": "Kategoria2"
+  },
+  {
+    "_id": "60e97213f077f1eac2ee3805",
+    "index": 80,
+    "ean": 23,
+    "nvalue": 392.35,
+    "bvalue": 255.72,
+    "prod": "Produkt15",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e972137bd81247bfb5af4b",
+    "index": 81,
+    "ean": 9,
+    "nvalue": 233.13,
+    "bvalue": 485.37,
+    "prod": "Produkt15",
+    "category": "Kategoria4"
+  },
+  {
+    "_id": "60e972134fe9aeec91a5a5bd",
+    "index": 82,
+    "ean": 27,
+    "nvalue": 477.3,
+    "bvalue": 379.08,
+    "prod": "Produkt3",
+    "category": "Kategoria1"
+  },
+  {
+    "_id": "60e97213803452d3b592981e",
+    "index": 83,
+    "ean": 10,
+    "nvalue": 161.16,
+    "bvalue": 247.29,
+    "prod": "Produkt5",
+    "category": "Kategoria2"
+  }
+]
