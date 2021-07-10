@@ -1,4 +1,4 @@
-[{
+{products:[{
     "index": 0,
     "ean": 15,
     "nvalue": 17,
@@ -237,4 +237,4 @@
     "bvalue": 72,
     "prod": "P12",
     "category": "K1"
-  }]
+  }]}
