@@ -1,6 +1,6 @@
 {"products":[{
     "index": 0,
-    "ean": 15,
+    "ean": "k1",
     "nvalue": 17,
     "bvalue": 80,
     "prod": "P3",
